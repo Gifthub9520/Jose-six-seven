@@ -1,0 +1,6 @@
+{
+  "name": "Estudo de Caso: ABC Calçados S.A. - Apresentação",
+  "description": "Apresentação de slides interativa e profissional sobre o estudo de caso da Empresa ABC Calçados S.A. para a disciplina de Administração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
